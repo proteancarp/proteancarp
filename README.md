@@ -1,8 +1,24 @@
-- 👋 Hi, I’m Anu
-- 👀 I’m interested in automation and ML/AI
-- 🌱 I’m currently learning Python
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: The word "checkmate" comes from the Persian phrase "Shah Mat" which means "the king is helpless"
+# 👋 Hi, I'm Anu (Protean Carp)
+
+I'm an aspiring polymath exploring the intersection of **Python**, **backend development**, **automation**, and creative thinking.  
+Currently learning and building small projects while improving my problem-solving skills.
+
+### 🔭 Interests
+- Automation & scripting  
+- Machine Learning foundations  
+- Backend development (Python, PHP)  
+- Data analysis  
+- Writing + creativity  
+
+### 🌱 Currently Learning
+- Python (intermediate concepts)
+- Backend fundamentals
+- SQL + Database design  
+- Git/GitHub workflows  
+
+### ⚡ Fun fact
+“Checkmate” comes from the Persian *“Shah Mat”* — meaning *“the king is helpless.”*
+
 
 <!---
 AnuBot18/AnuBot18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
